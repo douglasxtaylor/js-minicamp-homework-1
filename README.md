@@ -4,11 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+	* Variables  = containers for assigning and storing data values
+	* Strings = containers for assigning and storing text
+	* Functions (arguments, `return`) = blocks of code that are meant to perform a particular task. argument= a value (number, string, booleans, etc.), return= explicitly make your function returna  value
+
+	* `if` statements = conditional statement that forks the path of a function or operation
+	* Boolean values (`true`, `false`) = binary values assigned, such as true/false, yes/no, on/off, etc.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
@@ -32,10 +33,5 @@
 
 
 #### Congratulations on finishing Homework #1!
-Apply to our full-time or part-time immersive program to learn cutting edge technologies that are used by top technology companies around the world.
 
-Our part-time and full-time courses are 13 intense weeks of focused study on the most relevant technologies.  
-
-Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.  We also provide career support both during and after the course to help you succeed.  We are committed to your success.
-
-For more information visit: https://www.lambdaschool.com
+For more information about Lambda School's six month CS program visit: https://lambdaschool.com
